@@ -35,7 +35,9 @@ Practices:
 
 3. Manage Flow
 - The Kan-Ban system helps you manage flow by highlighting the various stages of the workflow and the status of work in each stage. This system helps your team analyze the system and make adjustments to improve flow so as to reduce the tiume it takes to complete each piece of work. You must see how long work stayes in these "handoff stages." Reducing the time spent in these wait stages is key to reducing cycle time. This allows you to improve your ability to forecast completion times.
+
 4. Make Process Policies Explicit
+- 
 5. Implement Feedback Loops
 6. Improve Collaboratively, Evolve Experimentally (Using the scientific method)
 7. 
